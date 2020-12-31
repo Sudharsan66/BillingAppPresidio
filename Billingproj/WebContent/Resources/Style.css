@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+table{
+background-color: #ffd9b3;
+}
+tbody{
+background-color: #ffd9b3;
+}
+tr,td{
+padding: 8px;
+text-align: center;
+}
+.home
+{
+	padding:20px; 
+	background-color: #b3b3cc; 
+}
